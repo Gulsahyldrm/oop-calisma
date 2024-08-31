@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/classes-example/classes-example.iml" filepath="$PROJECT_DIR$/classes-example/classes-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes-with-attributes/classes-with-attributes.iml" filepath="$PROJECT_DIR$/classes-with-attributes/classes-with-attributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/oop-calisma.iml" filepath="$PROJECT_DIR$/.idea/oop-calisma.iml" />
       <module fileurl="file://$PROJECT_DIR$/re-cap-demo/re-cap-demo.iml" filepath="$PROJECT_DIR$/re-cap-demo/re-cap-demo.iml" />
     </modules>
