@@ -1,6 +1,8 @@
 public class Productmanager {
-    public void AddProduct(Product product) {
+    public void AddProduct(Product p) {
         //JDBC
-        System.out.println( "Adding product " + product.name );
+        //System.out.println( "product Added " + p.name );
+
+
     }
 }
