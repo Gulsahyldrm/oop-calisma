@@ -1,5 +1,5 @@
 public class CustomerManager {
-    public void AddCustomer() {
+    public void addCustomer() {
         System.out.println("Add customer");
     }
 }
