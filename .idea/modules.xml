@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/abstract-classes/abstract-classes.iml" filepath="$PROJECT_DIR$/abstract-classes/abstract-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract-demo/abstract-demo.iml" filepath="$PROJECT_DIR$/abstract-demo/abstract-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes-example/classes-example.iml" filepath="$PROJECT_DIR$/classes-example/classes-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes-with-attributes/classes-with-attributes.iml" filepath="$PROJECT_DIR$/classes-with-attributes/classes-with-attributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance-demo/inheritance-demo.iml" filepath="$PROJECT_DIR$/inheritance-demo/inheritance-demo.iml" />
