@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/classes-with-attributes/classes-with-attributes.iml" filepath="$PROJECT_DIR$/classes-with-attributes/classes-with-attributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance-demo/inheritance-demo.iml" filepath="$PROJECT_DIR$/inheritance-demo/inheritance-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritence/inheritence.iml" filepath="$PROJECT_DIR$/inheritence/inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/method-overloading/method-overloading.iml" filepath="$PROJECT_DIR$/method-overloading/method-overloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/oop-calisma.iml" filepath="$PROJECT_DIR$/.idea/oop-calisma.iml" />
       <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
